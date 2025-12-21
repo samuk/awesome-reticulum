@@ -1,4 +1,4 @@
-# awesome-reticulum
+# Awesome Reticulum
 
 List of awesome projects related to Reticulum Network.
 
