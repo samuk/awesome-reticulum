@@ -9,6 +9,7 @@ List of awesome projects related to Reticulum Network.
 * [Messangers and Browsers](#messangers-and-browsers)
 * [Transport and Network Interfaces](#transport-and-network-interfaces)
 * [LXMF Tools](#lxmf-tools)
+* [Content Server](#content-server)
 * [Flasher](#flasher)
 * [Publishing Tools](#publishing-tools)
 
@@ -44,6 +45,10 @@ List of awesome projects related to Reticulum Network.
 * [SebastianObi / LXMF-Tools](https://github.com/SebastianObi/LXMF-Tools) - Various small programs and tools which use the message protocol LXMF.
 * [randogoth / lxmf-bot](https://codeberg.org/randogoth/lxmf-bot.git) - Python class to easily develop a simple Telethon style chatbot for the LXMF protocol.
 * [lxmfy / LXMFy](https://github.com/lxmfy/LXMFy) - Easily create LXMF bots for the Reticulum Network with this extensible framework.
+
+## Content Server
+
+* [RNS-Things / rns-page-node](https://git.quad4.io/RNS-Things/rns-page-node) - A simple way to serve pages and files over the Reticulum network. Drop-in replacement for NomadNet nodes that primarily serve pages and files.
 
 ## Flasher
 
