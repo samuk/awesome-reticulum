@@ -4,17 +4,22 @@ List of awesome projects related to Reticulum Network.
 
 ## Contents
 
-* [Core](#core)
+* [Network Stack](#network-stack)
+* [Node Firmware](#node-firmware)
 * [Messangers and Browsers](#messangers-and-browsers)
 * [Utilities](#utilities)
-* [Hardware](#hardware)
+* [Flasher](#flasher)
 * [Transports](#transports)
 
-## Core
+## Network Stack
 
 * [markqvist / Reticulum](https://github.com/markqvist/Reticulum) - The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.
 * [markqvist / LXMF](https://github.com/markqvist/LXMF) - A simple and flexible messaging format and delivery protocol that allows a wide variety of implementations, while using as little bandwidth as possible.
 * [ion232 / reticulum-zig](https://github.com/ion232/reticulum-zig) - An implementation of Reticulum in Zig targeting operating systems and embedded devices.
+
+## Node Firmware
+
+* (DanBeard / RETCON](https://github.com/DanBeard/RETCON) - RETCON enables quick creation of pre-configured Raspberry Pi images that automatically form resilient mesh networks once deployed.
 
 ## Messangers and Browsers
 
@@ -27,7 +32,7 @@ List of awesome projects related to Reticulum Network.
 
 * [SebastianObi / LXMF-Tools](https://github.com/SebastianObi/LXMF-Tools) - Various small programs and tools which use the message protocol LXMF.
 
-## Hardware
+## Flasher
 
 * [liamcottle / rnode-flasher](https://github.com/liamcottle/rnode-flasher) - A web based firmware flasher for Reticulum / RNode_Firmware.
 
