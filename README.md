@@ -10,7 +10,8 @@ List of awesome projects related to Reticulum Network.
 * [Utilities](#utilities)
 * [Flasher](#flasher)
 * [Transports](#transports)
-* [Nomad Network](#nomadnetwork)
+* [Publishing Tools](#publishing-tools)
+* [Bot Framework](#bot-framework)
 
 ## Network Stack
 
@@ -42,6 +43,10 @@ List of awesome projects related to Reticulum Network.
 
 * [LFManifesto / ReticulumHF](https://github.com/LFManifesto/ReticulumHF) - Encrypted communication over HF radio using the Reticulum Network Stack and FreeDV digital modes.
 
-## Nomad Network
+## Publishing Tools
 
 * [randogoth / micron-blog](https://codeberg.org/randogoth/micron-blog.git) - Pelican Plug-In and Theme for publishing a site in Micron markup format for Nomad Network Nodes.
+
+## Bot Framework
+
+* [randogoth / lxmf-bot](https://codeberg.org/randogoth/lxmf-bot.git) - Python class to easily develop a simple Telethon style chatbot for the LXMF protocol.
