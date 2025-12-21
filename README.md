@@ -24,6 +24,7 @@ List of awesome projects related to Reticulum Network.
 * [DanBeard / RETCON](https://github.com/DanBeard/RETCON) - RETCON enables quick creation of pre-configured Raspberry Pi images that automatically form resilient mesh networks once deployed.
 * [AkitaEngineering / ESP32-C3-Reticulum-Node](https://github.com/AkitaEngineering/ESP32-C3-Reticulum-Node) - This project provides firmware to turn an ESP32-C3 (or compatible ESP32 variant) into a multi-interface Reticulum Network Stack gateway node.It allows devices communicating via different physical layers (WiFi UDP, ESP-NOW, Serial, Bluetooth) to exchange Reticulum packets seamlessly.
 * [strijar / RNS-Gate](https://github.com/strijar/RNS-Gate) - Standalone device for access and routing within the Reticulum Network Stack
+* [gretel / reticulum-openwrt](https://github.com/gretel/reticulum-openwrt) - GitHub workflow for cross-compiling Reticulum Network Stack (RNS) packages for OpenWrt.
 
 ## Messangers and Browsers
 
