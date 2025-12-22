@@ -1,8 +1,8 @@
 # Awesome Reticulum
 
-Hello! This is a list of awesome projects related to Reticulum Network.  
-The source code of this list is hosted at github: [github.com/lorien/awesome-reticulum](https://github.com/lorien/awesome-reticulum)  
-Also this list is rendered as HTML page on dedicated domain: [awesome-reticulum.net](https://awesome-reticulum.net)
+This is a curated list of projects related to the Reticulum network.  
+The source code of the list is hosted at [github.com/lorien/awesome-reticulum](https://github.com/lorien/awesome-reticulum)  
+Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 
 ## Contents
 
