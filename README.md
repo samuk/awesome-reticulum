@@ -8,11 +8,12 @@ Hello! This is a list of awesome projects related to Reticulum Network. I add to
 * [Node Firmware](#node-firmware)
 * [Messangers and Browsers](#messangers-and-browsers)
 * [Transport and Network Interfaces](#transport-and-network-interfaces)
-* [LXMF Tools](#lxmf-tools)
+* [LXMF Bots](#lxmf-bots)
 * [Content Server](#content-server)
 * [Flasher](#flasher)
 * [Publishing Tools](#publishing-tools)
 * [Custom Devices](#custom-devices)
+* [Small Tools and Code Examples](#small-tools-and-code-examples)
 
 ## Network Stack
 
@@ -44,13 +45,11 @@ Hello! This is a list of awesome projects related to Reticulum Network. I add to
 * [Reticulum-Interfaces/ RNS-over-HTTP](https://git.quad4.io/Reticulum-Interfaces/RNS-over-HTTP) - A Reticulum interface that tunnels traffic over standard HTTP/S POST requests. This allows Reticulum to operate on networks where only web traffic is permitted, effectively bypassing firewalls, DPI, and other restrictions.
 * [AkitaEngineering / Akita-Dynamic-DDNS-for-Reticulum](https://github.com/AkitaEngineering/Akita-Dynamic-DDNS-for-Reticulum) - Akita DDNS is a robust, decentralized, and dynamic destination naming system (DDNS) built specifically for the Reticulum Network Stack.
 
-## LXMF Tools
+## LXMF Bots
 
-* [SebastianObi / LXMF-Tools](https://github.com/SebastianObi/LXMF-Tools) - Various small programs and tools which use the message protocol LXMF.
 * [randogoth / lxmf-bot](https://codeberg.org/randogoth/lxmf-bot.git) - Python class to easily develop a simple Telethon style chatbot for the LXMF protocol.
 * [lxmfy / LXMFy](https://github.com/lxmfy/LXMFy) - Easily create LXMF bots for the Reticulum Network with this extensible framework.
 * [lxmfy / ollama-bot](https://github.com/lxmfy/ollama-bot) - Interact with Ollama LLMs using LXMFy bot framework.
-* [CyberKiska / lxmf-vanity-address-generator-py](https://github.com/CyberKiska/lxmf-vanity-address-generator-py) - A simple CLI tool to generate LXMF vanity addresses in Reticulum network.
 
 ## Content Server
 
@@ -73,3 +72,10 @@ Hello! This is a list of awesome projects related to Reticulum Network. I add to
 ## Custom Devices
 
 * [weltamdraht / ReticulumRasPiRelaySwitch](https://github.com/weltamdraht/ReticulumRasPiRelaySwitch) - This project switches on or off some electrical stuff if an according command is received through Reticulum's lxmf.
+
+## Small Tools and Code Examples
+
+* [antlas0 / rns_tools](https://github.com/antlas0/rns_tools) - This package provides a small range of RNS tools, driven by my curiosity about Reticulum stack.
+* [SebastianObi / RNS-Tools](https://github.com/SebastianObi/RNS-Tools) - Various small programs and tools which use the Reticulum Network Stack RNS
+* [SebastianObi / LXMF-Tools](https://github.com/SebastianObi/LXMF-Tools) - Various small programs and tools which use the message protocol LXMF.
+* [CyberKiska / lxmf-vanity-address-generator-py](https://github.com/CyberKiska/lxmf-vanity-address-generator-py) - A simple CLI tool to generate LXMF vanity addresses in Reticulum network.
