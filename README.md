@@ -51,7 +51,7 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 * [Ren / Browser](https://git.quad4.io/Ren/Browser) - A browser for the Reticulum Network.Target platforms: Web, Linux, Windows, MacOS, Android, iOS. Built using Flet.
 * [kc1awv/ lxst_phone](https://github.com/kc1awv/lxst_phone) - A peer-to-peer voice calling application built on the Reticulum Network Stack.
 * [fr33n0w / rBrowser](https://github.com/fr33n0w/rBrowser) - A modern, web-based UI for exploring NomadNet nodes and pages over the Reticulum network.
-* [RNS-Things / reticulum-meshchatX](https://git.quad4.io/RNS-Things/reticulum-meshchatX) - A heavily customized fork of Reticulum MeshChat, any meaningful, stable and tested modifications will be submitted as a PR upstream.
+* [RNS-Things / MeshChatX](https://git.quad4.io/RNS-Things/MeshChatX) - A heavily customized fork of Reticulum MeshChat, any meaningful, stable and tested modifications will be submitted as a PR upstream.
 * [fr33n0w / lxmf-cli](https://github.com/fr33n0w/lxmf-cli) - Feature-Rich Terminal-based LXMF Messaging Client for Reticulum.
 
 ## Transports and Network Interfaces
