@@ -19,7 +19,7 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 * [LoRa Tools](#lora-tools)
 * [Custom Devices](#custom-devices)
 * [Small Utilities and Code Examples](#small-utilities-and-code-examples)
-* [Discussions](#discussions)
+* [Community Discussions](#community-discussions)
 
 ## Network Stack
 
@@ -115,6 +115,6 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 * [SebastianObi / NomadNet-Pages](https://github.com/SebastianObi/NomadNet-Pages) - Various small example pages/programs for usage with the NomadNet node server or rns_server_page.
 * [reticulum.network/manual/examples.html](https://reticulum.network/manual/examples.html) - Examples of using RNS in official documentation.
 
-## Discussions
+## Community Discussions
 
 * [reticulum.zulipchat.com](https://reticulum.zulipchat.com) - Reticulum discussion on Zulipchat platform
