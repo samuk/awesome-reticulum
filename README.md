@@ -39,6 +39,7 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 ## Node Firmware
 
 * [markqvist / RNode_Firmware](https://github.com/markqvist/RNode_Firmware) - An RNode is an open, free and unrestricted digital radio transceiver. It enables anyone to send and receive any kind of data over both short and very long distances. RNodes can be used with many different kinds of programs and systems, but they are especially well suited for use with Reticulum.
+* [Micro Reticulum](https://github.com/attermann/microReticulum_Firmware) Integration of the microReticulum network stack to implement a completeley self-contained standalone node on ESP32/ NRF52 devices
 * [DanBeard / RETCON](https://github.com/DanBeard/RETCON) - RETCON enables quick creation of pre-configured Raspberry Pi images that automatically form resilient mesh networks once deployed.
 * [strijar / RNS-Gate](https://github.com/strijar/RNS-Gate) - Standalone device for access and routing within the Reticulum Network Stack
 * [gretel / reticulum-openwrt](https://github.com/gretel/reticulum-openwrt) - GitHub workflow for cross-compiling Reticulum Network Stack (RNS) packages for OpenWrt.
