@@ -43,6 +43,8 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 * [DanBeard / RETCON](https://github.com/DanBeard/RETCON) - RETCON enables quick creation of pre-configured Raspberry Pi images that automatically form resilient mesh networks once deployed.
 * [strijar / RNS-Gate](https://github.com/strijar/RNS-Gate) - Standalone device for access and routing within the Reticulum Network Stack
 * [gretel / reticulum-openwrt](https://github.com/gretel/reticulum-openwrt) - GitHub workflow for cross-compiling Reticulum Network Stack (RNS) packages for OpenWrt.
+* [RNode Halow firmware](https://github.com/I-AM-ENGINEER/RNode_Halow_Firmware) RNode implementation based on the Taixin TXW8301, using the 802.11ah
+* [](https://github.com/jrl290/RNodeTHV4) Standalone Reticulum over LoRa and WiFi Node - Firmware for Heltec V4 
 
 ## Messangers and Browsers
 
