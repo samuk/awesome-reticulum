@@ -73,6 +73,9 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 
 * [acehoss / rnsh](https://github.com/acehoss/rnsh) - An utility written in Python that facilitates shell sessions over Reticulum networks. It is based on the rnx utility that ships with Reticulum and aims to provide a similar experience to SSH.
 
+## Maps
+* [https://rmap.world/](https://rmap.world/) RMap.world
+
 ## LXMF Bots
 
 * [randogoth / lxmf-bot](https://codeberg.org/randogoth/lxmf-bot.git) - Python class to easily develop a simple Telethon style chatbot for the LXMF protocol.
