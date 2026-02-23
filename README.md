@@ -122,3 +122,4 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 ## Community Discussions
 
 * [reticulum.zulipchat.com](https://reticulum.zulipchat.com) - Reticulum discussion on Zulipchat platform
+* [Reticulum Matrix room](https://app.element.io/#/room/#reticulum:matrix.org) Matrix room 
