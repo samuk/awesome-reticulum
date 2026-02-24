@@ -26,10 +26,10 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 | Project Name | Description |
 | :--- | :--- |
 | [Reticulum](https://github.com/markqvist/Reticulum) ![GitHub Repo stars](https://img.shields.io/github/stars/markqvist/Reticulum?style=social) | (Markqvist) The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between. |
-| [reticulum-zig](https://github.com/ion232/reticulum-zig) ![GitHub Repo stars](https://img.shields.io/github/stars/ion232/reticulum-zig?style=social) | (Ion232) An implementation of Reticulum in Zig targeting operating systems and embedded devices. |
 | [microReticulum](https://github.com/attermann/microReticulum) ![GitHub Repo stars](https://img.shields.io/github/stars/attermann/microReticulum?style=social) | (Attermann) Port of Reticulum Network Stack to C++ specifically but not exclusively targeting 32-bit and better MCUs. |
 | [ Reticulum-rs](https://github.com/BeechatNetworkSystemsLtd/Reticulum-rs) ![GitHub Repo stars](https://img.shields.io/github/stars/BeechatNetworkSystemsLtd/Reticulum-rs?style=social) | (BeechatNetworkSystemsLtd) Reticulum Networking Stack implementation written in Rust. |
 | [Reticulum-Go](https://git.quad4.io/Networks/Reticulum-Go) | (Networks) A Go implementation of the Reticulum Network Stack. |
+| [reticulum-zig](https://github.com/ion232/reticulum-zig) ![GitHub Repo stars](https://img.shields.io/github/stars/ion232/reticulum-zig?style=social) | (Ion232) An implementation of Reticulum in Zig targeting operating systems and embedded devices. |
 | [reticulum-network-stack](https://github.com/sergst83/reticulum-network-stack) ![GitHub Repo stars](https://img.shields.io/github/stars/sergst83/reticulum-network-stack?style=social) | (Sergst83) An implementation of Reticulum network stack in Java. |
 | [reticulum_ex](https://codeberg.org/int32/reticulum_ex) | (Int32) An implementation of the Reticulum Network Stack in Elixir. This implementation is a work in progress and is definitely not ready for day to day use. |
 
