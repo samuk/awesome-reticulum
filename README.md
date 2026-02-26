@@ -53,6 +53,8 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 | [RNode Halow firmware](https://github.com/I-AM-ENGINEER/RNode_Halow_Firmware) ![GitHub Repo stars](https://img.shields.io/github/stars/I-AM-ENGINEER/RNode_Halow_Firmware?style=social) | RNode implementation based on the Taixin TXW8301, using the 802.11ah. |
 | [RNodeTHV4](https://github.com/jrl290/RNodeTHV4) ![GitHub Repo stars](https://img.shields.io/github/stars/jrl290/RNodeTHV4?style=social) | Standalone Reticulum over LoRa and WiFi Node - Firmware for Heltec V4. |
 
+https://github.com/torlando-tech/pyxis
+
 ## Messengers and Browsers
 
 | Project Name | Description |
