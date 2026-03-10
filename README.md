@@ -36,9 +36,9 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 | [strijar / RNS-Gate](https://github.com/strijar/RNS-Gate) ![GitHub Repo stars](https://img.shields.io/github/stars/strijar/RNS-Gate?style=social) | Standalone device for access and routing within the Reticulum Network Stack. |
 | [gretel / reticulum-openwrt](https://github.com/gretel/reticulum-openwrt) ![GitHub Repo stars](https://img.shields.io/github/stars/gretel/reticulum-openwrt?style=social) | GitHub workflow for cross-compiling Reticulum Network Stack (RNS) packages for OpenWrt. |
 | [RNode Halow firmware](https://github.com/I-AM-ENGINEER/RNode_Halow_Firmware) ![GitHub Repo stars](https://img.shields.io/github/stars/I-AM-ENGINEER/RNode_Halow_Firmware?style=social) | RNode implementation based on the Taixin TXW8301, using the 802.11ah. |
-| [Ratcom](https://github.com/ratspeak/ratcom) ![GitHub Repo stars](https://img.shields.io/github/stars/ratspeak/ratcom?style=social) |  Standalone Reticulum on M5Stack's Cardputer Adv. . |
-| [Pyxis](https://github.com/torlando-tech/pyxis) ![GitHub Repo stars](https://img.shields.io/github/stars/torlando-tech/pyxis?style=social) |  Standalone Reticulum on LilyGo T-Deck, all-in-one. . |
 | [Ratdeck](https://github.com/ratspeak/ratdeck) ![GitHub Repo stars](https://img.shields.io/github/stars/ratspeak/ratdeck?style=social) |  Standalone Reticulum on LilyGo T-Deck, all-in-one. . |
+| [Pyxis](https://github.com/torlando-tech/pyxis) ![GitHub Repo stars](https://img.shields.io/github/stars/torlando-tech/pyxis?style=social) |  Standalone Reticulum on LilyGo T-Deck, all-in-one. . |
+| [Ratcom](https://github.com/ratspeak/ratcom) ![GitHub Repo stars](https://img.shields.io/github/stars/ratspeak/ratcom?style=social) |  Standalone Reticulum on M5Stack's Cardputer Adv. . |
 
 
 
