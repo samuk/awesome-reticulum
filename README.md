@@ -21,8 +21,6 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 * [Small Utilities and Code Examples](#small-utilities-and-code-examples)
 * [Community Discussions](#community-discussions)
 
-## Network Stack
-
 
 ## Node Firmware
 
@@ -40,8 +38,7 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 | [Pyxis](https://github.com/torlando-tech/pyxis) ![GitHub Repo stars](https://img.shields.io/github/stars/torlando-tech/pyxis?style=social) |  Standalone Reticulum on LilyGo T-Deck, all-in-one. . |
 | [Ratcom](https://github.com/ratspeak/ratcom) ![GitHub Repo stars](https://img.shields.io/github/stars/ratspeak/ratcom?style=social) |  Standalone Reticulum on M5Stack's Cardputer Adv. . |
 
-
-
+## Network Stack
 
 | Project Name | Description |
 | :--- | :--- |
