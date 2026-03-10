@@ -6,9 +6,9 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 
 ## Contents
 
+* [Node Firmware](#node-firmware)
 * [Network Stack](#network-stack)
 * [Application-Layer Protocols](#application-layer-protocols)
-* [Node Firmware](#node-firmware)
 * [Messangers and Browsers](#messangers-and-browsers)
 * [Transports and Network Interfaces](#transports-and-network-interfaces)
 * [Network Tools](#network-tools)
@@ -22,6 +22,26 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 * [Community Discussions](#community-discussions)
 
 ## Network Stack
+
+
+## Node Firmware
+
+| Project Name | Description |
+| :--- | :--- |
+| [markqvist / RNode_Firmware](https://github.com/markqvist/RNode_Firmware) ![GitHub Repo stars](https://img.shields.io/github/stars/markqvist/RNode_Firmware?style=social) | An RNode is an open, free and unrestricted digital radio transceiver. It enables anyone to send and receive any kind of data over both short and very long distances. |
+| [RNode_Firmware_CE](https://github.com/liberatedsystems/RNode_Firmware_CE) ![GitHub Repo stars](https://img.shields.io/github/stars/liberatedsystems/RNode_Firmware_CE?style=social) | Community maintained fork of the open firmware which powers RNode. |
+| [Micro Reticulum](https://github.com/attermann/microReticulum_Firmware) ![GitHub Repo stars](https://img.shields.io/github/stars/attermann/microReticulum_Firmware?style=social) | Integration of the microReticulum network stack to implement a completely self-contained standalone node on ESP32/NRF52 devices. |
+| [DanBeard / RETCON](https://github.com/DanBeard/RETCON) ![GitHub Repo stars](https://img.shields.io/github/stars/DanBeard/RETCON?style=social) | Enables quick creation of pre-configured Raspberry Pi images that automatically form resilient mesh networks once deployed. |
+| [RNodeTHV4](https://github.com/jrl290/RNodeTHV4) ![GitHub Repo stars](https://img.shields.io/github/stars/jrl290/RNodeTHV4?style=social) | Standalone Reticulum over LoRa and WiFi Node - Firmware for Heltec V4. |
+| [strijar / RNS-Gate](https://github.com/strijar/RNS-Gate) ![GitHub Repo stars](https://img.shields.io/github/stars/strijar/RNS-Gate?style=social) | Standalone device for access and routing within the Reticulum Network Stack. |
+| [gretel / reticulum-openwrt](https://github.com/gretel/reticulum-openwrt) ![GitHub Repo stars](https://img.shields.io/github/stars/gretel/reticulum-openwrt?style=social) | GitHub workflow for cross-compiling Reticulum Network Stack (RNS) packages for OpenWrt. |
+| [RNode Halow firmware](https://github.com/I-AM-ENGINEER/RNode_Halow_Firmware) ![GitHub Repo stars](https://img.shields.io/github/stars/I-AM-ENGINEER/RNode_Halow_Firmware?style=social) | RNode implementation based on the Taixin TXW8301, using the 802.11ah. |
+| [Ratcom](https://github.com/ratspeak/ratcom) ![GitHub Repo stars](https://img.shields.io/github/stars/ratspeak/ratcom?style=social) |  Standalone Reticulum on M5Stack's Cardputer Adv. . |
+| [Pyxis](https://github.com/torlando-tech/pyxis) ![GitHub Repo stars](https://img.shields.io/github/stars/torlando-tech/pyxis?style=social) |  Standalone Reticulum on LilyGo T-Deck, all-in-one. . |
+| [Ratdeck](https://github.com/ratspeak/ratdeck) ![GitHub Repo stars](https://img.shields.io/github/stars/ratspeak/ratdeck?style=social) |  Standalone Reticulum on LilyGo T-Deck, all-in-one. . |
+
+
+
 
 | Project Name | Description |
 | :--- | :--- |
@@ -40,23 +60,9 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 | [markqvist / LXMF](https://github.com/markqvist/LXMF) ![GitHub Repo stars](https://img.shields.io/github/stars/markqvist/LXMF?style=social) | A simple and flexible messaging format and delivery protocol that allows a wide variety of implementations, while using as little bandwidth as possible. |
 | [markqvist / LXST](https://github.com/markqvist/LXST) ![GitHub Repo stars](https://img.shields.io/github/stars/markqvist/LXST?style=social) | A simple and flexible real-time streaming format and delivery protocol that allows a wide variety of implementations, while using as little bandwidth as possible. |
 
-## Node Firmware
-
-| Project Name | Description |
-| :--- | :--- |
-| [RNode_Firmware_CE](https://github.com/liberatedsystems/RNode_Firmware_CE) ![GitHub Repo stars](https://img.shields.io/github/stars/liberatedsystems/RNode_Firmware_CE?style=social) | Community maintained fork of the open firmware which powers RNode. |
-| [markqvist / RNode_Firmware](https://github.com/markqvist/RNode_Firmware) ![GitHub Repo stars](https://img.shields.io/github/stars/markqvist/RNode_Firmware?style=social) | An RNode is an open, free and unrestricted digital radio transceiver. It enables anyone to send and receive any kind of data over both short and very long distances. |
-| [Micro Reticulum](https://github.com/attermann/microReticulum_Firmware) ![GitHub Repo stars](https://img.shields.io/github/stars/attermann/microReticulum_Firmware?style=social) | Integration of the microReticulum network stack to implement a completely self-contained standalone node on ESP32/NRF52 devices. |
-| [DanBeard / RETCON](https://github.com/DanBeard/RETCON) ![GitHub Repo stars](https://img.shields.io/github/stars/DanBeard/RETCON?style=social) | Enables quick creation of pre-configured Raspberry Pi images that automatically form resilient mesh networks once deployed. |
-| [strijar / RNS-Gate](https://github.com/strijar/RNS-Gate) ![GitHub Repo stars](https://img.shields.io/github/stars/strijar/RNS-Gate?style=social) | Standalone device for access and routing within the Reticulum Network Stack. |
-| [gretel / reticulum-openwrt](https://github.com/gretel/reticulum-openwrt) ![GitHub Repo stars](https://img.shields.io/github/stars/gretel/reticulum-openwrt?style=social) | GitHub workflow for cross-compiling Reticulum Network Stack (RNS) packages for OpenWrt. |
-| [RNode Halow firmware](https://github.com/I-AM-ENGINEER/RNode_Halow_Firmware) ![GitHub Repo stars](https://img.shields.io/github/stars/I-AM-ENGINEER/RNode_Halow_Firmware?style=social) | RNode implementation based on the Taixin TXW8301, using the 802.11ah. |
-| [RNodeTHV4](https://github.com/jrl290/RNodeTHV4) ![GitHub Repo stars](https://img.shields.io/github/stars/jrl290/RNodeTHV4?style=social) | Standalone Reticulum over LoRa and WiFi Node - Firmware for Heltec V4. |
-| [Ratcom](https://github.com/ratspeak/ratcom) ![GitHub Repo stars](https://img.shields.io/github/stars/ratspeak/ratcom?style=social) |  Standalone Reticulum on M5Stack's Cardputer Adv. . |
-| [Ratdeck](https://github.com/ratspeak/ratdeck) ![GitHub Repo stars](https://img.shields.io/github/stars/ratspeak/ratdeck?style=social) |  Standalone Reticulum on LilyGo T-Deck, all-in-one. . |
 
 
-https://github.com/torlando-tech/pyxis
+
 
 ## Messengers and Browsers
 
