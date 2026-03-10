@@ -52,6 +52,8 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 | [gretel / reticulum-openwrt](https://github.com/gretel/reticulum-openwrt) ![GitHub Repo stars](https://img.shields.io/github/stars/gretel/reticulum-openwrt?style=social) | GitHub workflow for cross-compiling Reticulum Network Stack (RNS) packages for OpenWrt. |
 | [RNode Halow firmware](https://github.com/I-AM-ENGINEER/RNode_Halow_Firmware) ![GitHub Repo stars](https://img.shields.io/github/stars/I-AM-ENGINEER/RNode_Halow_Firmware?style=social) | RNode implementation based on the Taixin TXW8301, using the 802.11ah. |
 | [RNodeTHV4](https://github.com/jrl290/RNodeTHV4) ![GitHub Repo stars](https://img.shields.io/github/stars/jrl290/RNodeTHV4?style=social) | Standalone Reticulum over LoRa and WiFi Node - Firmware for Heltec V4. |
+| [Ratcom](https://github.com/ratspeak/ratcom) ![GitHub Repo stars](https://img.shields.io/github/stars/ratspeak/ratcom?style=social) |  Standalone Reticulum on M5Stack's Cardputer Adv. . |
+
 
 https://github.com/torlando-tech/pyxis
 
