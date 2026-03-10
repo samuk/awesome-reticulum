@@ -36,7 +36,9 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 | [RNode Halow firmware](https://github.com/I-AM-ENGINEER/RNode_Halow_Firmware) ![GitHub Repo stars](https://img.shields.io/github/stars/I-AM-ENGINEER/RNode_Halow_Firmware?style=social) | RNode implementation based on the Taixin TXW8301, using the 802.11ah. |
 | [Ratdeck](https://github.com/ratspeak/ratdeck) ![GitHub Repo stars](https://img.shields.io/github/stars/ratspeak/ratdeck?style=social) |  Standalone Reticulum on LilyGo T-Deck, all-in-one. . |
 | [Pyxis](https://github.com/torlando-tech/pyxis) ![GitHub Repo stars](https://img.shields.io/github/stars/torlando-tech/pyxis?style=social) |  Standalone Reticulum on LilyGo T-Deck, all-in-one. . |
+| [Retinet](https://codeberg.org/skyguy/retinet)  |  RetiNet is a library to allow your software to communicate securely in all kinds of situations.  |
 | [Ratcom](https://github.com/ratspeak/ratcom) ![GitHub Repo stars](https://img.shields.io/github/stars/ratspeak/ratcom?style=social) |  Standalone Reticulum on M5Stack's Cardputer Adv. . |
+
 
 ## Network Stack
 
