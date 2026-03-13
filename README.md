@@ -159,5 +159,5 @@ It is also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 
 | Platform | Link |
 | :--- | :--- |
-| Zulipchat | [reticulum.zulipchat.com](https://reticulum.zulipchat.com) |
-| Matrix | [#reticulum:matrix.org](https://app.element.io/#/room/#reticulum:matrix.org) |
+| Matrix | [#reticulum:matrix.org](https://matrix.to/#/#rns-space:yatrix.org) ~500 people|
+| Zulipchat | [reticulum.zulipchat.com](https://reticulum.zulipchat.com) ~50 people |
